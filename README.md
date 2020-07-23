@@ -1,3 +1,3 @@
 # SnakeGame
-Made using Pygame
+Made using Pygame.
 Double click on 'SnakeGame.py' file and play the game.
